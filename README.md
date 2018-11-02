@@ -2,16 +2,16 @@
 
 A calculator with a twist, it calculates fractions.  Data entry needs to be in the following format:
 
-NUMBER operator(+ - * /) NUMBER
+number{space}operator(+ - * /){space}number
 
 Numbers need to be entered in this format:  25_3/5
 
 Where the whole number is separated from any fraction using the underscore character.
 
-Examples of a whole formulas: 
-2_3/4 * 4/5
-24/6 - 34
-12_3/10 + 2_3/4
+Examples of a formulas: 
+* 2_3/4 * 4/5
+* 24/6 - 34
+* 12_3/10 + 2_3/4
     
 ## How to create/start a new project
 
