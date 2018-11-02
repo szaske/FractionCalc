@@ -2,20 +2,18 @@
 
 A calculator with a twist, it calculates fractions.  Data entry needs to be in the following format:
 
-NUMBER <Operator> NUMBER
-
-Operators supported: + - * /
+NUMBER operator(+ - * /) NUMBER
 
 Numbers need to be entered in this format:  25_3/5
 
 Where the whole number is separated from any fraction using the underscore character.
 
-An example of a whole formula: 
+Examples of a whole formulas: 
 2_3/4 * 4/5
-
+24/6 - 34
+12_3/10 + 2_3/4
     
 ## How to create/start a new project
-
 
 ```
 git clone https://github.com/szaske/FractionCalc.git
